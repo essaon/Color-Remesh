@@ -3,6 +3,8 @@
 Приложение для перевода цветов по коду/колесу цветов/ползуноков параметров
 CMYK <> Lab <> HSV
 
+Установить последний релиз https://github.com/essaon/Color-Remesh/releases/tag/release
+
 # Запуск приложения через .py файл
 
 Windows
