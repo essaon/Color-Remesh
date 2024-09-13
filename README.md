@@ -5,7 +5,7 @@ CMYK <> Lab <> HSV
 
 # Запуск приложения через .py файл
 
-## Windows
+Windows
 
 ```
     python -m venv .venv
@@ -14,7 +14,7 @@ CMYK <> Lab <> HSV
     python main.py
 ```
 
-## MacOS & Linux
+MacOS & Linux
 
 ```
     python3 -m venv .venv
